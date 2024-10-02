@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-- 🔭 Eu sou desempregado
-- 🌱 Estou aprendendo python 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Me pergunte o que quiser, eu puder ajudar eu ajudo 
-- 📫 How to reach me: 
+- 🔭 Eu sou desempregado, só faço uns bicos.
+- 🌱 Estou aprendendo python, Inglês, Japonês e Física por Hobby.
+- 👯 Meu objetivo é dominar o mundo. 
+- 🤔 Aceito dicas e ajuda. 
+- 💬 Me pergunte o que quiser, eu puder ajudar de alguma forma eu ajudo 
+- 📫  
 - 😄 Pronouns: IT
 - ⚡ Fun fact: Eu sou eu mesmo, se eu fosse outra pessoa, eu não seria eu, seria outra pessoa.
--->
+
 ## Contatos:
 
 <div>
