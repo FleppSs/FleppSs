@@ -2,8 +2,7 @@
 
 - 🔭 Eu sou desempregado, só faço uns bicos.
 - 🌱 Estou aprendendo python, Inglês, Japonês e Física por Hobby.
-- 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 - 👯 Meu objetivo é dominar o mundo. 
 - 🤔 Aceito dicas e ajuda. 
